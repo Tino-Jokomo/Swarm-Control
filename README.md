@@ -9,6 +9,8 @@ To run a 4 drone mission with any leader-follower configuration (i.e v2 files mu
 Therefore e.g for config 1, run follower3-4_v2,run follower2-4_v2,run follower1-4_v2,run leader1-4_v2.
 Config 2 would be similar to above excpet the file versions will be v3.
 
+The rest of the code in this repo (not including the v2 and v3 files) was used to improve and develop the latest v2 and v3 files as these were developed later.
+
 Currently running this code will allow a swarm of drones to map a square boundary around the UCT Menzies building.Drone failure will allow for the continued mappinng of the area in a simiilar square boundary by remaining drones.
 
 Improvements to this software is being made in a separate branch.
